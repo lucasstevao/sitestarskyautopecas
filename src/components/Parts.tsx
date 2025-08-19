@@ -1,7 +1,7 @@
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Package, Truck, Clock, Star } from 'lucide-react';
+import { Package, Truck, Clock, Star, Disc, CircleGauge } from 'lucide-react';
 
 const Parts = () => {
   const categories = [

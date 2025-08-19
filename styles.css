@@ -404,6 +404,7 @@ section h2 {
 /* Contact Section */
 .contact {
     background: linear-gradient(135deg, hsl(0, 0%, 97%) 0%, hsl(0, 0%, 100%) 100%);
+    
 }
 
 .contact-content {
@@ -447,6 +448,7 @@ section h2 {
     padding: var(--spacing-8);
     border-radius: var(--radius-lg);
     box-shadow: 0 4px 20px var(--shadow);
+    display: none;
 }
 
 .form-group {
